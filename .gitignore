@@ -1,0 +1,10 @@
+.vscode/
+carhorn.dol
+carhorn.elf
+build/
+html/
+latex/
+packCollector/downloads
+packCollector/*.html
+HBApp/
+releases/
