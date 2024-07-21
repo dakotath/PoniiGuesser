@@ -1,10 +1,8 @@
 .vscode/
-carhorn.dol
-carhorn.elf
+*.dol
+*.elf
 build/
 html/
 latex/
-packCollector/downloads
-packCollector/*.html
 HBApp/
 releases/
